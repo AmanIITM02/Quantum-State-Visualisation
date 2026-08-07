@@ -23,7 +23,7 @@ This repository contains a collection of Python notebooks demonstrating the visu
 
 ## Preview
 
-![Bloch Sphere](images/bloch_sphere_basis_state.png)
+![Bloch Sphere](bloch_sphere_basis_state.png)
 
 ## Future Work
 
