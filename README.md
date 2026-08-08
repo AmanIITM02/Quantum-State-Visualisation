@@ -20,7 +20,7 @@ The project progresses from computational basis states to superposition states a
 
 **Preview:**
 
-images/bloch_sphere_basis_state.png
+![Bloch Sphere — Basis State](bloch_sphere_basis_state.png)
 
 ---
 
@@ -39,7 +39,7 @@ images/bloch_sphere_basis_state.png
 
 **Preview:**
 
-images/bloch_sphere_superposition_state.png
+![Bloch Sphere — Superposition State](bloch_sphere_superposition_state.png)
 
 ## Technologies Used
 
@@ -87,6 +87,7 @@ The simulations in this repository are intended as foundational computational st
 
 ## Author
 
-**Aman Kumar**
-##Department of Electronic Systems
-##Indian Institute of Technology, Madras, India
+**Aman Kumar**  
+Bachelor of Science in Electronic Systems  
+Indian Institute of Technology, Madras, India 
+
