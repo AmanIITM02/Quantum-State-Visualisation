@@ -124,8 +124,6 @@ The Bloch sphere provides a geometric representation of single-qubit states and 
 The simulations in this repository are intended as foundational computational studies toward understanding quantum control and characterization of physical qubits.
 
 ## Future Work
-
-- General single-qubit state visualization
 - X, Y, Z and Hadamard gate operations
 - Bloch sphere state rotations
 - Microwave-pulse-inspired qubit control
