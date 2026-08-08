@@ -86,7 +86,7 @@ z = |\alpha|^2-|\beta|^2
 
 **Preview:**
 
-![General Single-Qubit State](images/general_single_qubit_state.png)
+![General Single-Qubit State](general_single_qubit_state.png)
 
 
 ## Technologies Used
