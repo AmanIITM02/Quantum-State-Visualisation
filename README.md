@@ -41,6 +41,54 @@ The project progresses from computational basis states to superposition states a
 
 ![Bloch Sphere — Superposition State](bloch_sphere_superposition_state.png)
 
+
+### 03 — General Single-Qubit State Visualization
+
+**Notebook:** `03_General_Single_Qubit_State_Visualization.ipynb`
+
+- Constructs a general single-qubit state:
+
+\[
+|\psi\rangle = \alpha|0\rangle + \beta|1\rangle
+\]
+
+- Verifies the normalization condition:
+
+\[
+|\alpha|^2 + |\beta|^2 = 1
+\]
+
+- Calculates the measurement probabilities:
+
+\[
+P(0)=|\alpha|^2
+\]
+
+\[
+P(1)=|\beta|^2
+\]
+
+- Computes the corresponding Bloch vector coordinates:
+
+\[
+x = 2\operatorname{Re}(\alpha^*\beta)
+\]
+
+\[
+y = 2\operatorname{Im}(\alpha^*\beta)
+\]
+
+\[
+z = |\alpha|^2-|\beta|^2
+\]
+
+- Visualizes the resulting general single-qubit state on the Bloch sphere.
+
+**Preview:**
+
+![General Single-Qubit State](images/general_single_qubit_state.png)
+
+
 ## Technologies Used
 
 - Python
